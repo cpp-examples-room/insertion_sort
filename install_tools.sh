@@ -1,12 +1,6 @@
 #!/bin/bash
 set -e
 
-if [ `uname` != "Darwin" ]
-then
-    echo "It only supports the macOS system."
-    exit -1
-fi
-
 is_installed() {
     [ `which "$1"` ]
 }

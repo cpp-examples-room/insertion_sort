@@ -1,9 +1,10 @@
-# C++ examples
+# Insertion sort C++ example
 ## Supports
-It only supports the macOS and Linux systems.
+It supports the macOS and Linux systems.
 
 ## Tools installing
-Run the next command to install necessary tools:
+You need install Xcode Command Line Tools and then 
+run the next command:
 
 ```bash
 git clone https://github.com/x10mind-cpp-examples/insertion_sort.git
@@ -11,7 +12,7 @@ cd insertion_sort
 ./install_tools.sh
 ```
 
-## Build and run
+## Project building 
 Run the next command from the root project directory:
 
 ```bash
