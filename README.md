@@ -16,7 +16,7 @@ cd insertion_sort
 Run the next command from the root project directory:
 
 ```bash
-polly/bin/build.sh --verbosity-level=full --test
+polly/bin/build.sh --verbose --test
 ```
 
 ## References
