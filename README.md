@@ -3,7 +3,7 @@
 It supports the macOS and Linux systems.
 
 ## Tools installing
-You need install Xcode Command Line Tools and then 
+You need install Xcode Command Line Tools (macOS) and then 
 run the next command:
 
 ```bash
