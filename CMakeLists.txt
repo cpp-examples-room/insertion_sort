@@ -5,7 +5,7 @@ HunterGate(
     URL "https://github.com/ruslo/hunter/archive/v0.18.52.tar.gz"
     SHA1 "b16c19e28aefbb83b02aa90bacf8350fc45ef7d0")
 
-project(intersection_sort)
+project(insertion_sort)
 
 include("config.cmake")
 include("hunter.cmake")
