@@ -3,7 +3,7 @@
 It supports the macOS and Linux systems.
 
 ## Tools installing
-You need install Xcode Command Line Tools (macOS) and then 
+You need install Xcode Command Line Tools (macOS) and
 run the next command:
 
 ```bash
@@ -13,7 +13,7 @@ cd insertion_sort
 ```
 
 ## Project building 
-Run the next command from the root project directory:
+Run the next command from root project directory:
 
 ```bash
 polly/bin/build.sh --verbose --test
@@ -22,4 +22,3 @@ polly/bin/build.sh --verbose --test
 ## References
 
 - Algorithms Unlocked. Thomas H. Cormen
-
